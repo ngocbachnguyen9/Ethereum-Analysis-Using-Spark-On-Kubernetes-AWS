@@ -1,0 +1,7 @@
+[["logs_bloom", [3584000520, 7000002]]]
+
+Actual -> total chars: 3584000520 - 8 = 3584000512, rows: 7000002 - 1 = 7000001
+
+No. of bits for characters: 3584000512 * 4 = 14336002048 bits
+
+Chars check: 7000001 * 512 (1 item in logs_blooms no. of chars) = 3584000512https://colab.research.google.com/drive/1t52osZL0ClDfj4QWcnfPJkT6DYAck6HH

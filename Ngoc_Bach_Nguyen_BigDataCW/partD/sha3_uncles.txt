@@ -1,0 +1,7 @@
+[["sha3_uncles", [448000073, 7000002]]]
+
+Actual -> total chars: 448000073 - 9 = 448000064, rows: 7000002 - 1 = 7000001
+
+No. of bits for characters = 448000064 * 4 = 1792000256 bits
+
+Check total no. of characters (sh3_uncles) = 7000001 * 64 = 448000064
